@@ -26,3 +26,6 @@ Query Page
 ![Query page](https://github.com/dev-zoro/AgroFarm/assets/85384891/e5245d69-ed02-4657-b1aa-71d10219dd18)
 
 
+Crop Page
+
+![image](https://github.com/dev-zoro/AgroFarm/assets/85384891/ad837b5f-95f6-444d-bf36-1f5b563e05ec)
