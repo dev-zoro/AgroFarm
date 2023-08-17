@@ -5,7 +5,9 @@ On this Website, we will get to know each and every detail about Farming and can
 
 Tech Used:
 Front-end: HTML, CSS, and JS
+
 Backend: PHP
+
 Database: MySQL
 
 Screenshots:
