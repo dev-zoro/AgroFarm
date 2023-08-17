@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+body{
+    margin: 0;
+      
+    
+}
+
+/* .back-img{
+    width: 100%;
+    opacity: 30%;
+    position: absolute;
+}
+
+.main-layout{
+    opacity: 100%;
+} */
+
+/* CSS FOR HEADER */
+
+.header {
+    width: 100%;
+    background-color: #2ce732b0;
+}
+
+.logo img {
+    margin-left: 3%;
+    display: block;
+    float: left;
+    width: 15%;
+}
+
+.navbar {
+    display: flex;
+    width: 80%;
+
+}
+
+.site-navbar {
+    margin-left: 35%;
+
+}
+
+.site-navbar ul li {
+    display: inline;
+    padding: 10px;
+
+}
+
+.site-navbar ul li a {
+    color: #4CAF50;
+    background-color: white;
+    border-radius: 5px;
+    padding: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Poppins', serif;
+}
+
+.site-navbar ul {
+    display: inline-block;
+    list-style: none;
+    background-color: #4caf4fb0;
+    width: 95%;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.site-navbar ul li a:hover {
+    color: white;
+    background-color: #4CAF50;
+}
+
+
+.body-layout{
+    justify-self: center;
+    text-align: center;
+}
+
+
+.heading h4, h3{
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+h4{
+    font-size: 40px;
+    color: #4CAF50;
+    
+}
+
+h3{
+    font-size: 50px;
+    margin-top: -40px;
+    color: #666666;
+}
+
+form input, textarea {
+    font-size: 15px;
+    padding: 20px;
+    width: 40%;
+    margin-bottom: 3%;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid #4CAF50;
+    border-bottom-right-radius: 20px;
+    
+    
+}
+
+form button{
+    background-color: #4CAF50;
+    font-size: 20px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.map h3{
+    margin-top: 5%;
+}
+
+.footer{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    background-color: black;
+    width: 98.5%;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+            
+
+
+ [class*="col-9"] {
+        width: 70%;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+    ul li{
+    
+    width:100%;
+    
+    }
+}
+
+
