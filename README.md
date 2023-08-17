@@ -13,7 +13,7 @@ Screenshots:
 
 Home Page
 
-![Home](https://github.com/dev-zoro/AgroFarm/assets/85384891/ac226700-852c-4eb9-917f-83129013b3c7)
+![Home Page](https://github.com/dev-zoro/AgroFarm/assets/85384891/aa9635e9-2a6a-49f4-acd6-52bfc673f962)
 
 
 Selling Page
@@ -23,5 +23,6 @@ Selling Page
 
 Query Page
 
-![Query Page](https://github.com/dev-zoro/AgroFarm/assets/85384891/dbb9fd31-71fa-4248-a88b-5e03d405c018)
+![Query page](https://github.com/dev-zoro/AgroFarm/assets/85384891/e5245d69-ed02-4657-b1aa-71d10219dd18)
+
 
